@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/electrician-builder-with-beard-worker-white-helmet-work-installation-lamps-height-professional-overalls-with-drill-background-repair-site.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('website/images/electrician-builder-with-beard-worker-white-helmet-work-installation-lamps-height-professional-overalls-with-drill-background-repair-site.jpg');
   background-position: 50% 50%;
 }
 
@@ -330,7 +330,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 595px;
-  background-image: url("images/pexels-mathilde-langevin-11843703.jpg");
+  background-image: url("website/images/pexels-mathilde-langevin-11843703.jpg");
   background-position: 50% 50%;
 }
 
@@ -365,7 +365,7 @@
 
 .u-section-4 .u-image-2 {
   min-height: 595px;
-  background-image: url("images/man-electrical-technician-working-switchboard-with-fuses.jpg");
+  background-image: url("assets/image1.jpeg");
   background-position: 50% 50%;
 }
 
@@ -375,7 +375,7 @@
 
 .u-section-4 .u-image-3 {
   min-height: 537px;
-  background-image: url("images/male-electrician-works-switchboard-with-electrical-connecting-cable1.jpg");
+  background-image: url("assets/image2.jpeg");
   background-position: 50% 50%;
 }
 
@@ -385,7 +385,7 @@
 
 .u-section-4 .u-image-4 {
   min-height: 537px;
-  background-image: url("images/pexels-photo-6766628.jpeg");
+  background-image: url("assets/image3.jpeg");
   background-position: 50% 50%;
 }
 
@@ -743,7 +743,7 @@
   height: 165px;
   margin-top: 0;
   margin-bottom: 0;
-  background-image: url("images/front-view-male-builder-white-helmet-posing-light-background.jpg");
+  background-image: url("website/images/front-view-male-builder-white-helmet-posing-light-background.jpg");
   background-position: 50% 50%;
 }
 
@@ -889,7 +889,7 @@
 .u-section-7 .u-image-1 {
   width: 110px;
   height: 110px;
-  background-image: url("images/cheerful-business-woman-make-winner-gesture.jpg");
+  background-image: url("website/images/cheerful-business-woman-make-winner-gesture.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -914,7 +914,7 @@
 .u-section-7 .u-image-2 {
   width: 110px;
   height: 110px;
-  background-image: url("images/mand-holding-cup.jpg");
+  background-image: url("website/images/mand-holding-cup.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -943,7 +943,7 @@
 .u-section-7 .u-image-3 {
   width: 110px;
   height: 110px;
-  background-image: url("images/pexels-moose-photos-1586973.jpg");
+  background-image: url("website/images/pexels-moose-photos-1586973.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -972,7 +972,7 @@
 .u-section-7 .u-image-4 {
   width: 110px;
   height: 110px;
-  background-image: url("images/pexels-ravi-k-938642.jpg");
+  background-image: url("website/images/pexels-ravi-k-938642.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -1001,7 +1001,7 @@
 .u-section-7 .u-image-5 {
   width: 110px;
   height: 110px;
-  background-image: url("images/pexels-humphrey-muleba-2058659.jpg");
+  background-image: url("website/images/pexels-humphrey-muleba-2058659.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -1030,7 +1030,7 @@
 .u-section-7 .u-image-6 {
   width: 110px;
   height: 110px;
-  background-image: url("images/pexels-andrea-piacquadio-901424.jpg");
+  background-image: url("website/images/pexels-andrea-piacquadio-901424.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
